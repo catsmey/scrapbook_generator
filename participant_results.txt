@@ -14,3 +14,18 @@ Answers:
 5. 4
 6. 5
 7. 5
+
+Participant 2:
+//Profile//
+Age: 22
+Gender: Male
+Occupation: University Master Student
+
+Answers:
+1. 4
+2. 3
+3. 5
+4. 2
+5. 3
+6. 4
+7. 3

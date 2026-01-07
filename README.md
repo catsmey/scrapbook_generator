@@ -23,3 +23,6 @@ This project implements a interactive co-creative system that generates a scrapb
 2) Navigate to the project directory in your terminal.
 
 3) Run: ``python3 cc_final_assignment.py your-api-key``
+
+## Scrapbook Results Examples
+We collected the scrapbook results and compiled them into a digital scrapbook. All necessary consent was obtained from the participants. The scrapbook can be accessed at github or here \url{https://bit.ly/scrapbookCC}.

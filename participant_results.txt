@@ -1,0 +1,16 @@
+Experiment results
+
+Participant 1:
+//Profile//
+Age : 20
+Gender : Female
+Occupation : University Bachelor Student
+
+Answers:
+1. 2 (the algorithm changes the face)
+2. 5
+3. 4
+4. 4
+5. 4
+6. 5
+7. 5

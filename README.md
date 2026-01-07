@@ -2,7 +2,7 @@
 # Computational Creativy: Assignment COCONUT
 
 ## Overview
-This project implements a interactive co-creative system that generates a scrapbook page based on the input image and text files. The scrapbook generator is based on an evolutionary algorithm where the user chooses which generated offspring is selected for the parent population for the next generation. The final generation contains the desired scrapbook pages. The generation is done with OpenAI's ChatGPT. This repository contains the python file ``cc_final_assignment.py``. This repository requires an input directory, for example, ``\france``, only containing ``jpg`` - and ``txt``-files . After running, the output of each generation is found in the directory ``\results``.
+This project implements a interactive co-creative system that generates a scrapbook page based on the input image and text files. The scrapbook generator is based on an evolutionary algorithm where the user chooses which generated offspring is selected for the parent population for the next generation. The final generation contains the desired scrapbook pages. The generation is done with OpenAI's ChatGPT. This repository contains the python file ``cc_final_assignment.py``. This repository requires an input directory, for example, ``\france``, only containing ``jpg`` - and ``txt``-files . After running, the output of each generation is found in the directory ``\results``. Note, to run this code you need an OpenAI key.
 
 
 ## System requirements
@@ -22,4 +22,4 @@ This project implements a interactive co-creative system that generates a scrapb
 
 2) Navigate to the project directory in your terminal.
 
-3) Run: ``python3 cc_final_assignment.py``
+3) Run: ``python3 cc_final_assignment.py your-api-key``
